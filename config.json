@@ -1,0 +1,9 @@
+{
+    "server": "localhost",
+    "username": "root",
+    "password": "Ladder@123",
+    "database": "python_demo",
+    "personnel_table_name": "student",
+    "attendance_table_name": "student_personal",
+    "mysql_unknown_name_table": "unknown_person"
+}
